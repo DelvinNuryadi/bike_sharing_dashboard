@@ -7,7 +7,7 @@ st.header("Bike Sharing")
 
 
 #import data
-df = pd.read_csv("Dashboard\clean_df.csv")
+df = pd.read_csv("clean_df.csv")
 
 
 with st.sidebar:

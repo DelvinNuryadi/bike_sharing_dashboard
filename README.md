@@ -4,4 +4,5 @@
 2. conda activate main-ds
 3. pip install numpy pandas matplotlib streamlit
 ## Run streamlit app
-streamlit run Dashboard
+- cd to Dashboard
+- run : streamlit run app.py
