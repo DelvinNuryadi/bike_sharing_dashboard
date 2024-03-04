@@ -2,6 +2,6 @@
 ## Setup environment
 1. conda create --name main-ds python=3.10
 2. conda activate main-ds
-3. pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+3. pip install numpy pandas matplotlib
 ## Run streamlit app
 streamlit run Dashboard
